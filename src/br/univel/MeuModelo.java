@@ -1,5 +1,5 @@
 package br.univel;
 
-public class MeuModelo {
+public class MeuModelo extends AbstracTableModel{
 
 }
